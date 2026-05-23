@@ -2,9 +2,7 @@
 
 In this lab, we explored how to use GridSearchCV to systematically tune hyperparameters and improve machine learning model performance.
 
-We:
-
-Loaded and explored the Wine Quality dataset
+Wine Quality dataset was loaded and explored
 Built baseline Decision Tree and Random Forest classifiers
 Evaluated models using 3-fold cross-validation
 Created parameter grids for hyperparameter tuning
